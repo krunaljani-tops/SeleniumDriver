@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-07-10T09:29:37 IST" name="Default suite" finished-at="2026-07-10T09:29:37 IST" duration-ms="54">
+  <suite started-at="2026-07-13T09:06:53 IST" name="Appium Components Suite" finished-at="2026-07-13T09:07:01 IST" duration-ms="7594">
     <groups>
     </groups>
-    <test started-at="2026-07-10T09:29:37 IST" name="Default test" finished-at="2026-07-10T09:29:37 IST" duration-ms="54">
+    <test started-at="2026-07-13T09:06:53 IST" name="UI Components Tests" finished-at="2026-07-13T09:07:01 IST" duration-ms="7594">
+      <class name="OpenGoogle">
+        <test-method signature="openGoogle()[pri:0, instance:OpenGoogle@128d2484]" started-at="2026-07-13T09:06:53 IST" name="openGoogle" finished-at="2026-07-13T09:07:01 IST" duration-ms="7544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+      </class> <!-- OpenGoogle -->
       <class name="Search">
-        <test-method signature="testSearch()[pri:0, instance:Search@689604d9]" started-at="2026-07-10T09:29:37 IST" name="testSearch" finished-at="2026-07-10T09:29:37 IST" duration-ms="10" status="PASS">
+        <test-method signature="testSearch()[pri:0, instance:Search@4135c3b]" started-at="2026-07-13T09:06:53 IST" name="testSearch" finished-at="2026-07-13T09:06:53 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearch -->
       </class> <!-- Search -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- UI Components Tests -->
+  </suite> <!-- Appium Components Suite -->
 </testng-results>
