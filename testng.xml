@@ -4,6 +4,7 @@
     <test name="UI Components Tests">
         <classes>
             <class name="Search"/>
+            <class name="OpenGoogle"/>
         </classes>
     </test>
 </suite>
